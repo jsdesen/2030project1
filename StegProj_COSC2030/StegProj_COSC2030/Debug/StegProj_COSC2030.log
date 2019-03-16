@@ -1,0 +1,4 @@
+﻿  StegProj_COSC2030.cpp
+c:\users\glato\desktop\stegproj_cosc2030\stegproj_cosc2030\stegproj_cosc2030.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\glato\desktop\stegproj_cosc2030\stegproj_cosc2030\stegproj_cosc2030.cpp(182): warning C4244: 'return': conversion from 'unsigned long' to 'char', possible loss of data
+  StegProj_COSC2030.vcxproj -> C:\Users\Glato\Desktop\StegProj_COSC2030\Debug\StegProj_COSC2030.exe
